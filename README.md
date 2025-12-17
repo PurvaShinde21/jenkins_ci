@@ -25,10 +25,12 @@ Whenever the pipeline runs, Jenkins automatically clones the repository, builds 
 ---
 ## Project Structure
 
+```
 jenkins_ci/
 ├── Dockerfile          # Defines the Docker image for the Flask application
 ├── Jenkinsfile         # Jenkins declarative pipeline for CI/CD automation
 ├── app.py              # Flask application source code
 ├── requirements.txt    # Python dependencies
 └── README.md           # Project documentation
+```
 
