@@ -25,7 +25,6 @@ Whenever the pipeline runs, Jenkins automatically clones the repository, builds 
 ---
 
 ## Project Structure
-.
 ├── Dockerfile
 ├── Jenkinsfile
 ├── app.py
